@@ -1,2 +1,2 @@
 # hierarchical-cluster
- Técnicas Estatísticas de Agrupamento | Método Hierárquico
+ Agrupamento Hierárquico em Python e R
